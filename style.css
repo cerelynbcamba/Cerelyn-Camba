@@ -1,0 +1,66 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>Cerelyn Camba</title>
+</head>
+
+<style>
+<body> {
+ background-image: url("sunset.jpg");
+ background-attachment: fixed;
+ background-size: cover;
+ margin: 20px;
+ font-family: century
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
+
+<body>
+
+<h1 style="font-size:25px;font-family:century gothic;">
+<a href="CERELYN.html">RETURN</a></h1>
+<p style="font-size:32px;font-family: century"> Cerelyn Camba </p>
+<picture>
+  <source media="(min-width: 5)" srcset="snow.jpg">
+  <source media="(min-width: 5)" srcset="snow.jpg">
+  <img src="snow.jpg" style="width:250;">
+</picture>
+
+<p>
+Student ID:21138414
+</p>
+Course:Bachelor of Science in Information Technology
+</p> 
+Year:3
+</p>
+Section:G
+</p>
+Hobbies: Reading Wattpad, Watching Netflix, Listening to Music, Playing Badminton, Cooking
+</p>
+Address: #10 Ilang Ilang St. Lakeview Homes Subdivision, Putatan, Muntinlupa City
+</p>
+Inspirational Quotes: "Fall Seven Times, Stand Up Eight"
+</body>
+</html>
